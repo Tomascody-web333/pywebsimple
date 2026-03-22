@@ -8,7 +8,7 @@ with open("LICENSE", "r", encoding="utf-8") as fh:
 
 setup(
     name="pywebsimple",
-    version="0.1.0",
+    version="0.2.0",
     author="Tomascody-web333",
     author_email="general@homeserverlab.org",
     description="Create websites with only HTML, CSS and Python",
