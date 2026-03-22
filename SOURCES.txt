@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+pywebsimple/__init__.py
+pywebsimple/core.py
+pywebsimple.egg-info/PKG-INFO
+pywebsimple.egg-info/SOURCES.txt
+pywebsimple.egg-info/dependency_links.txt
+pywebsimple.egg-info/requires.txt
+pywebsimple.egg-info/top_level.txt

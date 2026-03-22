@@ -1,0 +1,46 @@
+Metadata-Version: 2.4
+Name: pywebsimple
+Version: 0.1.0
+Summary: Create websites with only HTML, CSS and Python
+Home-page: https://github.com/Tomascody-web333/pywebsimple
+Author: Tomascody-web333
+Author-email: general@homeserverlab.org
+Project-URL: Documentation, https://homeserverlab.org/pywebsimple
+Project-URL: Source, https://github.com/Tomascody-web333/pywebsimple
+Project-URL: Tracker, https://github.com/Tomascody-web333/pywebsimple/issues
+Keywords: web framework python html css
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Internet :: WWW/HTTP :: WSGI :: Application
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: Flask>=2.0.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: license-file
+Dynamic: project-url
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# PyWebSimple
+
+Create websites with only HTML, CSS and Python - no JavaScript or SQL required!
+
+## Installation
+
+```bash
+pip install pywebsimple
